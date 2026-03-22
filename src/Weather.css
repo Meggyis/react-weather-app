@@ -25,17 +25,16 @@
  
 }
 .Weather img {
-    width: 68px;
-    height: 68px;
-    margin-right: 10px;
+    width: 84px;
+    height: 84px;
     display: inline-block;
     position: relative;
-    top: -12px;
+    top: -18px;
 }
 .Weather .temperature {
     font-size: 64px;
-    font-weight: 500;
-    line-height: 64px;
+    font-weight: 400;
+    line-height: 60px;
     color: black;
 }
 .Weather .unit {
@@ -46,5 +45,4 @@
     color: black;
     position: relative;
     top: -32px;
-    line-height: 1;
 }
